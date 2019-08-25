@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.866a7cba.chunk.css",
+    "main.js": "/static/js/main.c391e206.chunk.js",
+    "main.js.map": "/static/js/main.c391e206.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.ffe2c503.chunk.css": "/static/css/2.ffe2c503.chunk.css",
+    "static/js/2.e9d8fe38.chunk.js": "/static/js/2.e9d8fe38.chunk.js",
+    "static/js/2.e9d8fe38.chunk.js.map": "/static/js/2.e9d8fe38.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fc8dc0a70b5849f6962d84c4cbe2925a.js": "/precache-manifest.fc8dc0a70b5849f6962d84c4cbe2925a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.ffe2c503.chunk.css.map": "/static/css/2.ffe2c503.chunk.css.map",
+    "static/css/main.866a7cba.chunk.css.map": "/static/css/main.866a7cba.chunk.css.map",
+    "static/media/boy.svg": "/static/media/boy.6f28383b.svg",
+    "static/media/fullreduction.svg": "/static/media/fullreduction.b5b1bbda.svg",
+    "static/media/noImg.svg": "/static/media/noImg.2d756bfc.svg",
+    "static/media/order.svg": "/static/media/order.b8ae93b5.svg",
+    "static/media/五金工具.svg": "/static/media/五金工具.b485ba8e.svg",
+    "static/media/待付款.svg": "/static/media/待付款.7a17d420.svg",
+    "static/media/待收货.svg": "/static/media/待收货.21b15056.svg",
+    "static/media/待评价.svg": "/static/media/待评价.224bef3d.svg",
+    "static/media/烟.svg": "/static/media/烟.b67be111.svg",
+    "static/media/生活用品.svg": "/static/media/生活用品.69caeb24.svg",
+    "static/media/粮油.svg": "/static/media/粮油.29047ce5.svg",
+    "static/media/调味品.svg": "/static/media/调味品.0800745f.svg",
+    "static/media/退换货.svg": "/static/media/退换货.9992f39c.svg",
+    "static/media/酒.svg": "/static/media/酒.56799b63.svg",
+    "static/media/零食.svg": "/static/media/零食.e6feee58.svg",
+    "static/media/饮料.svg": "/static/media/饮料.9afd6bbe.svg"
+  }
+}
