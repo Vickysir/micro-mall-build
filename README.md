@@ -1,6 +1,6 @@
 ### 商城
 
-<div style="display:flex,justify-content:center" >
+<div align=center >
     <img src="./img/1.png" width = "300" >
     <img src="./img/2.png" width = "300" >
 </div>
