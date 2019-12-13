@@ -1,13 +1,15 @@
 ### 商城
 
-![avatar-w150](./img/1.png)
-![avatar-w150](./img/2.png)
-![avatar-w150](./img/3.png)
-![avatar-w150](./img/4.png)
-![avatar-w150](./img/5.png)
 <div align=center>
-    <img src="./img/1.png" width = "100" >
-    <img src="./img/2.png" width = "100" >
+    <img src="./img/1.png" width = "300" >
+    <img src="./img/2.png" width = "300" >
+</div>
+<div align=center>
+    <img src="./img/3.png" width = "300" >
+    <img src="./img/4.png" width = "300" >
+</div>
+<div align=center>
+    <img src="./img/5.png" width = "300" >
 </div>
 
 ### 技术栈
