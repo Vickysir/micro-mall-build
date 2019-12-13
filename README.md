@@ -5,6 +5,10 @@
 ![avatar-w150](./img/3.png)
 ![avatar-w150](./img/4.png)
 ![avatar-w150](./img/5.png)
+<div align=center>
+    <img src="./img/1.png" width = "100" >
+    <img src="./img/2.png" width = "100" >
+</div>
 
 ### 技术栈
 - react 
