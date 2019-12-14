@@ -26,27 +26,31 @@
     <img src="./img/5.png" width = "300" style="margin-left:20px,margin-right:20px">
 </div>
 
-### 技术栈 :v: :v::v:
+### 技术组件 :v: :v::v:
 
-- react @^16.8.6
-- react-router-dom @^5.0.1
-- antd-mobile @^2.2.14
-- node @^11.6.0
-- docker @^18.09.7
-- docker-compose @^1.17.1
+React + antd mobile + Node + Express + MongoDB
+
+- react @16.8.6
+- react-router-dom @5.0.1
+- antd-mobile @2.2.14
+- node @11.6.0
+- express @4.16.0
+- MongoDB @3.4.0
+- docker @18.09.7
+- docker-compose @1.17.1
+
+
 
 
 
 ### 主要功能 :point_down::point_down::point_down:
-1. 首页登录（微信）
+1. 登录、注册
 
-2. 商品详情
+2. 首页、商品详情
 
 3. 购物车
 
 4. 订单
-
-5. 支付（微信、支付宝）
 
 6. 个人中心
 
@@ -60,7 +64,7 @@
 
 ### 收获🤔🤔🤔
 
-- 部署时，遇到些问题。只是编写了docker-compose.yml，并未在项目配置nginx.conf，导致挂载失败，对docker理解不透彻。
+- 部署。部署静态网页时，遇到些问题。只是编写了docker-compose.yml，并未在项目配置nginx.conf，导致挂载失败，对docker理解不透彻。
 
 <div align=center style="margin-bottom:40px">
     <img src="./img/6.png" width = "700" style="margin-left:20px,margin-right:20px">
@@ -83,7 +87,7 @@ services:
       
 ```
 
-- 推荐一个[emoji](http://emojihomepage.com/)网站，click就会复制emoji表情，直接粘贴到Markdown文档中即可😎😎😎
+- 推荐一个[emoji](http://emojihomepage.com/)网站，click就会复制emoji表情，直接粘贴到Markdown文档中即可使用😎😎😎
 
 
 
@@ -91,15 +95,14 @@ services:
 
 ### 还未实现的功能 🖤🙉😱💔
 
-- 微信登录
+- 登录、注册
 
-- node搭建后台，提供API
+- node搭建后台、数据库，提供API
 
 - 购物车、订单
 
-- 支付
-
   
+
 
 ### 欢迎交流 🙋🙋🙋
 
