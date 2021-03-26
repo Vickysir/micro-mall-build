@@ -26,7 +26,7 @@
     <img src="./img/5.png" width = "300" style="margin-left:20px,margin-right:20px">
 </div>
 
-### 技术组件 :v: :v::v:
+### 技术栈 :v: :v::v:
 
 React + antd mobile + Node + Express + MongoDB
 
